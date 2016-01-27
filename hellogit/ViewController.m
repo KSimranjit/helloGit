@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Changes for Git to commit
     //other changes
+    
+   // changes for the client in new branch for prototype purpose
 }
 
 - (void)didReceiveMemoryWarning {
