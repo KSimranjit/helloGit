@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Changes for Git to commit
+    //other changes
 }
 
 - (void)didReceiveMemoryWarning {
